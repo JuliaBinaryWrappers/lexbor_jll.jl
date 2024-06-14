@@ -1,0 +1,143 @@
+[[lexbor]]
+arch = "aarch64"
+git-tree-sha1 = "f00db98b6e73a61784c5a2ff2d2ee18ac5376a90"
+os = "macos"
+
+    [[lexbor.download]]
+    sha256 = "d83b36c1bcd0bf2a44a2f10fe1dd716e0713a8731ffc80ae4f907ac31cb78358"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.aarch64-apple-darwin.tar.gz"
+[[lexbor]]
+arch = "aarch64"
+git-tree-sha1 = "98c8ed4c521b43793c4919eeff646387dcef1fa9"
+libc = "glibc"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "4bbe211d5cc528c4beac2be3a497116c4e2d9d1989b5ce667cd7c58db7eb9739"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.aarch64-linux-gnu.tar.gz"
+[[lexbor]]
+arch = "aarch64"
+git-tree-sha1 = "eac09035725aacdb8e48a78f06328e8758b2e927"
+libc = "musl"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "e311d936855129d0f4093552e17a29bfded839887fa65e22d92173768cafb183"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.aarch64-linux-musl.tar.gz"
+[[lexbor]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "bcc1f055808580e7d5eebf87c460cd40bb0e790e"
+libc = "glibc"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "e808aa731b4c30e62bf74e99c30390f7025df3999bd81e7e2979fbb003177d2b"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.armv6l-linux-gnueabihf.tar.gz"
+[[lexbor]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "08bc66455fd4f1667591d096e8820248c0d16fc0"
+libc = "musl"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "20922a4e2854748ebfb998f776c566ae0a7f8fc6c707db95bcd4d19f87b45575"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.armv6l-linux-musleabihf.tar.gz"
+[[lexbor]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9d875d6bb39d719ddbc1a9b8d9ae2c03cf467b67"
+libc = "glibc"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "3cb29931c057a0ec734ace2dd052cbee2c8192b4108e8f0f140babd06b181dc8"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.armv7l-linux-gnueabihf.tar.gz"
+[[lexbor]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bf74aeb3cfdb6c791ad52c19924aff98b26fd1f0"
+libc = "musl"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "ed1a22f8ed2e1cd527b2bdeba65d52e0ecbe089c290c19fbc22ed0c93401628d"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.armv7l-linux-musleabihf.tar.gz"
+[[lexbor]]
+arch = "i686"
+git-tree-sha1 = "b1d3f5df793c96f1810100efce72ace388209f99"
+libc = "glibc"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "58f740ccb486c3f64272ff8d459c964c609099d54866439aeadf081be347792f"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.i686-linux-gnu.tar.gz"
+[[lexbor]]
+arch = "i686"
+git-tree-sha1 = "b6f8500256689f76df18a5566d012ce55e534a42"
+libc = "musl"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "119880daaff96a16dd54ddee8faaca3573344fb3832b83fe54c27d3c2590e9cb"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.i686-linux-musl.tar.gz"
+[[lexbor]]
+arch = "i686"
+git-tree-sha1 = "5f453bf39e79f398f25f724f70020e5dc5b49acf"
+os = "windows"
+
+    [[lexbor.download]]
+    sha256 = "fb15a66baace789e52ddd174b1f1f24e891c6024c544bd2ac55914e66dd12279"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.i686-w64-mingw32.tar.gz"
+[[lexbor]]
+arch = "powerpc64le"
+git-tree-sha1 = "5f23d9cacf8db4d876c908bebe91d43d603efd61"
+libc = "glibc"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "26c7e4e3b5dcf99a9587311bbfc587ecc40708db909e8c204d9027221aa21659"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.powerpc64le-linux-gnu.tar.gz"
+[[lexbor]]
+arch = "x86_64"
+git-tree-sha1 = "2145997113cdc438d93258003410ea9b9d2b7c6d"
+os = "macos"
+
+    [[lexbor.download]]
+    sha256 = "e92428b19b5d0b841178c54cb4b99dfe334e3fc50e28109991a995a6c047a527"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.x86_64-apple-darwin.tar.gz"
+[[lexbor]]
+arch = "x86_64"
+git-tree-sha1 = "50ec7bfe47f548b6a412bd3c54b266ac73d24b92"
+libc = "glibc"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "daf8174fe91c019b7970b60cc7019e1d7e0be3d73ab999146ca73a5b96579455"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.x86_64-linux-gnu.tar.gz"
+[[lexbor]]
+arch = "x86_64"
+git-tree-sha1 = "43b7fb4cdc133d3808ed9927ebf945237c5ebc87"
+libc = "musl"
+os = "linux"
+
+    [[lexbor.download]]
+    sha256 = "30f897fbe9b8dc6d62515e46d5b2f755061a652ee3476e46424b3cd3a6d83c09"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.x86_64-linux-musl.tar.gz"
+[[lexbor]]
+arch = "x86_64"
+git-tree-sha1 = "ada6746900d5b6936a163b69d67690df703030ca"
+os = "freebsd"
+
+    [[lexbor.download]]
+    sha256 = "40daa37c39af3bff718d6579bafd3bdb096ec9361ab3e7301c8fa2c711c0c5bf"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.x86_64-unknown-freebsd.tar.gz"
+[[lexbor]]
+arch = "x86_64"
+git-tree-sha1 = "fa947d85a00321b03a2ba96e9455c587c65ab012"
+os = "windows"
+
+    [[lexbor.download]]
+    sha256 = "b64fd0518bb072f5fee10f7a8d4016f1cbf6f704997f6b918e0134ea3f96b957"
+    url = "https://github.com/JuliaBinaryWrappers/lexbor_jll.jl/releases/download/lexbor-v2.3.0+0/lexbor.v2.3.0.x86_64-w64-mingw32.tar.gz"
