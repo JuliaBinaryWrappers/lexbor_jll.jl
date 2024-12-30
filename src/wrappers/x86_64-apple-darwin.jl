@@ -19,37 +19,37 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         liblexbor,
-        "lib/liblexbor.2.3.0.dylib",
+        "lib/liblexbor.2.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         liblexbor_core,
-        "lib/liblexbor-core.1.7.0.dylib",
+        "lib/liblexbor-core.1.8.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         liblexbor_css,
-        "lib/liblexbor-css.1.1.0.dylib",
+        "lib/liblexbor-css.1.2.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         liblexbor_dom,
-        "lib/liblexbor-dom.1.6.0.dylib",
+        "lib/liblexbor-dom.1.7.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         liblexbor_encoding,
-        "lib/liblexbor-encoding.2.0.1.dylib",
+        "lib/liblexbor-encoding.2.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         liblexbor_html,
-        "lib/liblexbor-html.2.3.0.dylib",
+        "lib/liblexbor-html.2.5.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
@@ -61,31 +61,31 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         liblexbor_punycode,
-        "lib/liblexbor-punycode.1.0.0.dylib",
+        "lib/liblexbor-punycode.1.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         liblexbor_selectors,
-        "lib/liblexbor-selectors.0.2.0.dylib",
+        "lib/liblexbor-selectors.0.3.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         liblexbor_tag,
-        "lib/liblexbor-tag.1.2.0.dylib",
+        "lib/liblexbor-tag.1.3.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         liblexbor_unicode,
-        "lib/liblexbor-unicode.0.1.0.dylib",
+        "lib/liblexbor-unicode.0.2.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         liblexbor_url,
-        "lib/liblexbor-url.0.1.0.dylib",
+        "lib/liblexbor-url.0.2.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
